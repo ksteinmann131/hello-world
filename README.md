@@ -1,2 +1,7 @@
 # hello-world
-Learning to add a repository
+
+Hello World!
+
+I'm Kelsey and learning to add a repository, create branches, make edits, and commit them.
+
+Whoop whoop!
